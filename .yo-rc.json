@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.suaytech"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "suaytech",
+    "packageName": "com.suaytech",
+    "packageFolder": "com/suaytech",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MGJlOTNhNWFmNjc4NjEzZjI5MzQ1YWJjOWE5MWYzNTc1NTE4YjY1N2I0NWI4ODRiN2FhZTM4OWY2NzJmMDRhNTYzNjNhYzZhYjkxMTI2NzIzNzlmZTAyNTU2MGE5NmY4MThiZDUxNjkxNTU3NGIxYWY5OTg4NDEyYzE1YzhkZGM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1606672116122,
+    "testFrameworks": ["gatling", "cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
